@@ -454,6 +454,8 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [underthesea](https://github.com/undertheseanlp/underthesea) - Vietnamese NLP Toolkit
 - [vn.vitk](https://github.com/phuonglh/vn.vitk) - A Vietnamese Text Processing Toolkit
 - [VnCoreNLP](https://github.com/vncorenlp/VnCoreNLP) - A Vietnamese natural language processing toolkit
+- [PhoBERT](https://github.com/VinAIResearch/PhoBERT) - Pre-trained language models for Vietnamese
+- [pyvi](https://github.com/trungtv/pyvi) - Python Vietnamese Core NLP Toolkit
 
 ### Data
 
@@ -462,6 +464,7 @@ NLP as API with higher level functionality such as NER, Topic tagging and so on 
 - [UD_Vietnamese](https://github.com/UniversalDependencies/UD_Vietnamese-VTB) - Vietnamese Universal Dependency Treebank
 - [VIVOS](https://ailab.hcmus.edu.vn/vivos/) - a free Vietnamese speech corpus consisting of 15 hours of recording speech by AILab
 - [VNTQcorpus(big).txt](http://viet.jnlp.org/download-du-lieu-tu-vung-corpus) - 1.75 million sentences in news
+- [ViText2SQL](https://github.com/VinAIResearch/ViText2SQL) - A dataset for Vietnamese Text-to-SQL semantic parsing (EMNLP-2020 Findings)
 
 ## NLP for Dutch
 
